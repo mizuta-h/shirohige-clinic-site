@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+/* Reset
+------------------------------------------------------------*/
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,form,fieldset,input,textarea,p,blockquote,th,td, figcaption, figure {
+	margin: 0;
+	padding: 0;
+}
+address,em { font-style: normal; }/* 斜体字矯正---*/
+th { font-weight: normal; }/* 太字---*/
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+th { text-align: left;}
+legend { display: none;}/* 横罫線消去---*/
+h1,h2,h3,h4,h5,h6,small { font-size: 100%;font-weight: normal; }/* フォントサイズ統一---*/
+img,fieldset { border: 0;}/* 枠線消去---*/
+img {
+	vertical-align: bottom;}/* 画像の配置（ベースラインからボトムへ）---*/
+
+li { list-style-type: none;}/* リスト---*/

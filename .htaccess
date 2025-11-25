@@ -1,0 +1,58 @@
+# === index.html¤Ê¤·¤ËÅı°ì ================================
+RewriteEngine on
+RewriteCond %{THE_REQUEST} ^.*/index\.(html|php|cgi)
+RewriteCond %{SERVER_PORT} 80
+RewriteRule ^(.*)index\.(html|php|cgi)$ http://shirohige.clinic/$1 [R=301,L]
+RewriteCond %{THE_REQUEST} ^.*/index\.(html|php|cgi)
+RewriteCond %{SERVER_PORT} 443
+RewriteRule ^(.*)index\.(html|php|cgi)$ https://shirohige.clinic/$1 [R=301,L]
+#http¤«¤éhttps
+<IfModule mod_rewrite.c>
+	RewriteEngine On
+	RewriteCond %{HTTPS} !=on [NC]
+	RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
+</IfModule>
+#END http¤«¤éhttps
+#wwwÌµ¤·¤ÇÅı°ì
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^https://www.shirohige.clinic/
+RewriteRule ^(.*)$ https://shirohige.clinic/$1 [R=301,L]
+#END wwwÌµ¤·¤ÇÅı°ì
+
+# BEGIN WordPress
+# "BEGIN WordPress" ã‹ã‚‰ "END WordPress" ã¾ã§ã®ãƒ‡ã‚£ãƒ¬ã‚¯ãƒ†ã‚£ãƒ– (è¡Œ) ã¯
+# å‹•çš„ã«ç”Ÿæˆã•ã‚Œã€WordPress ãƒ•ã‚£ãƒ«ã‚¿ãƒ¼ã«ã‚ˆã£ã¦ã®ã¿ä¿®æ­£ãŒå¯èƒ½ã§ã™ã€‚
+# ã“ã‚Œã‚‰ã®ãƒãƒ¼ã‚«ãƒ¼é–“ã«ã‚ã‚‹ãƒ‡ã‚£ãƒ¬ã‚¯ãƒ†ã‚£ãƒ–ã¸ã®ã„ã‹ãªã‚‹å¤‰æ›´ã‚‚ä¸Šæ›¸ãã•ã‚Œã¦ã—ã¾ã„ã¾ã™ã€‚
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
+# END WordPress
+#¥ê¥À¥¤¥ì¥¯¥È¥ë¡¼¥ë
+Redirect 301 /features.html /feature.html
+Redirect 301 /staff.html /clinic.html
+Redirect 301 /novel.html /index.html
+Redirect 301 /caregiving.html /index.html
+Redirect 301 /cost.html /price.html
+Redirect 301 /homecare.html https://shirohige.clinic/menu/%E8%A8%AA%E5%95%8F%E8%A8%BA%E7%99%82%E3%81%A8%E3%81%AF/
+Redirect 301 /home_care_support.html https://shirohige.clinic/menu/%E5%B1%85%E5%AE%85%E4%BB%8B%E8%AD%B7%E6%94%AF%E6%8F%B4%E4%BA%8B%E6%A5%AD%E6%89%80%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/
+Redirect 301 /inquiry.html https://shirohige.clinic/menu/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B/
+Redirect 301 /home_visit.html https://shirohige.clinic/menu/%E8%A8%AA%E5%95%8F%E7%9C%8B%E8%AD%B7%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/
+Redirect 301 /flow_of_visit.html https://shirohige.clinic/menu/%E8%A8%AA%E5%95%8F%E8%A8%BA%E7%99%82%E3%81%AE%E6%B5%81%E3%82%8C/
+Redirect 301 /visitingarea.html https://shirohige.clinic/menu/%E8%A8%AA%E5%95%8F%E8%A8%BA%E7%99%82%E3%81%AE%E6%B5%81%E3%82%8C/
+Redirect 301 /recruit.html https://shirohige.clinic/recruit/%E3%83%AA%E3%82%AF%E3%83%AB%E3%83%BC%E3%83%88/
+Redirect 301 /network.html https://shirohige.clinic/menu/%E8%A8%AA%E5%95%8F%E8%A8%BA%E7%99%82%E3%81%A8%E3%81%AF/
+#END ¥ê¥À¥¤¥ì¥¯¥È¥ë¡¼¥ë
+SetEnvIf Request_URI ".*" Ngx_Cache_NoCacheMode=off
+SetEnvIf Request_URI ".*" Ngx_Cache_StaticMode
+
+#¥×¥ì¥Ó¥å¡¼¤¬index.html¤Ë¤Ê¤é¤Ê¤¤¤è¤¦¤Ë¤¹¤ë
+RewriteCond %{QUERY_STRING} preview=true
+RewriteRule ^/?$ /index.php$1 [L]
+

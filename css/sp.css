@@ -1,0 +1,1629 @@
+/* CSS Document */
+@media (min-width: 641px) and (max-width: 1024px){
+    body, .mainvisual_wrap, #mainvisual, header, footer{
+        min-width: 1300px;
+    }
+    .tgl_menu_list ul li.nav_mega_menu .mega_menu_wrap{
+        width: 1300px;
+    }
+}
+@media screen and (max-width:640px){
+body {
+    font-size: 14px;
+}
+body, #mainvisual .inner, header, footer {
+    min-width: 100%;
+}
+/* ナビ展開時スクロール禁止処理 */
+body.nav-open{
+    overflow: hidden!important;
+}
+
+/*============================================================================
+
+	header
+
+============================================================================*/
+header,
+.side_btn,.left_btn {
+    display: none;
+}
+
+/*============================================================================
+
+	nav
+
+============================================================================*/
+.nav_wrap,
+.nav_wrap.fixed {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 10000;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 0 0;
+    background: #fff;
+}
+.nav_wrap .header_logo {
+    width: calc(100% - 56px);
+}
+.nav_wrap .header_logo a {
+    display: block;
+    width: 100%;
+    height: 100%;
+    padding: 5px 0;
+    text-align: center;
+}
+.nav_wrap .header_logo img {
+    width: auto;
+    height: 45px;
+}
+/* ハンバーガーボタン */
+.btn_tgl_menu {
+    position: relative;
+    right: 0;
+    color: #fff;
+    width: 55px;
+    background: #5dad6c;
+    border: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    transition: right 0.6s cubic-bezier(.19, 1, .22, 1);
+}
+.btn_tgl_menu i {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 5px;
+    margin: auto;
+    font-style: normal;
+    font-size: 12px;
+    font-weight: bold;
+    letter-spacing: 0.1em;
+}
+.btn_tgl_menu span {
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+    display: block;
+    width: 35px;
+    height: 2px;
+    background: #fff;
+    transition: all 0.6s cubic-bezier(.19, 1, .22, 1);
+    opacity: 1;
+}
+.btn_tgl_menu span:nth-of-type(1) {
+    top: 10px;
+}
+.btn_tgl_menu span:nth-of-type(2) {
+    top: 20px;
+}
+.btn_tgl_menu span:nth-of-type(3) {
+    top: 30px;
+}
+/* MENUボタン押下時 */
+.btn_tgl_menu.active {
+    right: 16.25rem;
+}
+.btn_tgl_menu.active span:nth-of-type(1) {
+    top: 20px;
+    transform: rotate(225deg);
+}
+.btn_tgl_menu.active span:nth-of-type(2) {
+    opacity: 0;
+}
+.btn_tgl_menu.active span:nth-of-type(3) {
+    top: 20px;
+    transform: rotate(-225deg);
+}
+/* ドロップダウンメニュー */
+.tgl_menu_list {
+    position: fixed;
+    top: 0;
+    right: 0;
+    right: -16.25rem;
+    z-index: 2;
+    overflow: hidden;
+    width: 16.25rem;
+    height: 100%;
+    transition: right 0.6s cubic-bezier(.19, 1, .22, 1);
+    background: #5dad6c;
+    padding: 15px;
+}
+.tgl_menu_list ul {
+    flex-flow: column wrap;
+    margin: 0 0;
+}
+.tgl_menu_list ul::before {
+    display: none;
+}
+.tgl_menu_list ul li {
+    display: block;
+    border-bottom: 1px solid #fff;
+    width: 100%;
+}
+.tgl_menu_list ul li:first-child {
+    border-top: 1px solid #fff;
+}
+.tgl_menu_list ul li::after {
+    display: none;
+}
+.tgl_menu_list ul li a, .tgl_menu_list ul li p {
+    display: block;
+    text-align: left;
+    padding: 15px 10px;
+    width: auto;
+    color: #fff;
+    font-weight: normal;
+    font-size: 15px;
+    letter-spacing: 0;
+}
+.tgl_menu_list ul li a span, .tgl_menu_list ul li p span {
+    display: none;
+}
+.tgl_menu_list ul li a:hover {
+    color: #fff;
+}
+body.nav-open .tgl_menu_list {
+    overflow-y: scroll;
+    right: 0;
+}
+.tgl_menu_list ul li a::after, .tgl_menu_list ul li p::after {
+    display: none;
+}
+.tgl_menu_list ul li a::before, .tgl_menu_list ul li > p::before {
+    display: none;
+}
+/* ------- スライドメニュー シングル------- */
+.tgl_menu_list ul li.nav_single_menu div {
+    position: static;
+    opacity: 1;
+    visibility: visible;
+    width: 100%;
+    padding-bottom: 10px;
+    box-shadow: none;
+}
+.tgl_menu_list ul li.nav_single_menu div a {
+    margin-left: 15px;
+    background: none;
+    padding: 3px;
+    line-height: 2;
+    text-indent: -1.2em;
+    padding-left: 1.2em;
+    border-bottom: none;
+}
+.tgl_menu_list ul li.nav_single_menu div a::before {
+    position: static;
+    display: inline;
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    content: "\f105";
+    margin-right: 10px;
+}
+.tgl_menu_list ul li.nav_single_menu div a i.nav_arrow {
+    display: none;
+}
+.tgl_menu_list ul li.nav_single_menu div a:hover {
+    color: #fff;
+    background: none;
+}
+/* ------- スライドメニュー メガ------- */
+.tgl_menu_list ul li.nav_mega_menu {
+    position: relative;
+}
+.tgl_menu_list ul li.nav_mega_menu p::before {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    width: auto;
+    height: auto;
+    border: none;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    content: "\f067";
+    background-image: none;
+}
+.tgl_menu_list ul li.nav_mega_menu .mega_menu_wrap {
+    display: none;
+    position: static;
+    opacity: 0;
+    visibility: hidden;
+    background: none;
+    box-shadow: none;
+    transition: height 0.5s cubic-bezier(.19, 1, .22, 1);
+}
+.tgl_menu_list ul li.nav_mega_menu.active .mega_menu_wrap {
+    opacity: 1;
+    visibility: visible;
+}
+.tgl_menu_list .mega_menu_inner {
+    display: block;
+    padding: 0 30px 10px 0;
+    width: 100%;
+}
+.tgl_menu_list .mega_menu_top a {
+    padding: 12px 12px 12px 0;
+}
+.tgl_menu_list .mega_menu_top a::before {
+    position: static;
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    content: "\f105";
+    border: none;
+    margin-right: 10px;
+}
+.tgl_menu_list .menu_list {
+    margin-left: 0;
+    width: 100%;
+}
+.tgl_menu_list .menu_list:last-child {    
+    width: 100%;
+}
+.tgl_menu_list ul li.nav_mega_menu .mega_menu_inner .menu_list p {
+    display: none;
+}
+.tgl_menu_list ul li.nav_mega_menu .mega_menu_inner .menu_list li {
+    border: none !important;
+}
+.tgl_menu_list ul li.nav_mega_menu div a {
+    margin-left: 15px;
+    background: none;
+    padding: 3px;
+    line-height: 2;
+    /*text-indent: -1.2em;*/
+    /*padding-left: 1.2em;*/
+}
+/* メガメニュー展開時 */
+.tgl_menu_list ul li.nav_mega_menu.active p::before {
+    content: "\f068";
+}
+/* ナビ展開時の後ろの背景 */
+.nav_overlay {
+    display: none;
+    opacity: 0;
+    visibility: hidden;
+    z-index: 10;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.2);
+}
+body.nav-open .nav_overlay {
+    display: block;
+    opacity: 1;
+    visibility: visible;
+}
+/* ヘッダー固定ボタンエリア */
+.btn_area {
+    width: 100%;
+}
+.btn_area ul {
+    display: flex;
+    background: #fff;
+}
+.btn_area li.btn {
+    width: 100%;
+}
+.btn_area li.btn a {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    /*height: 100%;*/
+	height: 50px;
+    color: #fff;
+    text-align: center;
+    font-weight: bold;
+    padding: 13px 2%;
+	line-height: 1.4;
+}
+.btn_area li.btn a i,
+.btn_area li.btn a img{
+    width: 15px;
+    margin-right: 3px;
+}
+.btn_area li.btn_tel {
+    background: #E1B83C;
+}
+.btn_area li.btn_yoyaku {
+    background: #004F98;
+}
+.btn_area li.btn_monshin {
+    background: #63AAB7;
+}
+.btn_area li.btn_recruit {
+    background: #00C7A3;
+}
+.btn_area li.btn_access {
+    background: #00C7A3;
+}
+/* 準備中用のクラス */
+.btn_area li.btn.coming {
+    background: #aaa !important;
+}
+.btn_area li.btn.coming a {
+    pointer-events: none;
+    padding: 4px 2% 22px;
+}
+.btn_area li.btn.coming a::before {
+    content: "（準備中）";
+    position: absolute;
+    bottom: 4px;
+    left: 0;
+    right: 0;
+    margin: auto;
+    text-align: center;
+    font-size: 90%;
+}
+
+/*============================================================================
+
+	#mainvisual
+
+============================================================================*/
+#mainvisual {
+    background-position: center;
+    background-attachment: scroll;
+    height: 200px;
+    margin-top: 105px;
+}
+#mainvisual .inner {
+    width: auto;
+    height: inherit;
+    border-radius: 0;
+}
+.mainvisual_animal01,
+.mainvisual_animal02 {
+    display: none;
+}
+.mainvisual_cloud01 {
+    bottom: 130px;
+    left: 5px;
+}
+.mainvisual_cloud02 {
+    bottom: 130px;
+    right: 5px;
+}
+.mainvisual_cloud01 img {
+    width: 60px;
+    height: auto;
+}
+.mainvisual_cloud02 img {
+    width: 70px;
+    height: auto;
+}
+.mainvisual_icon {
+    bottom: /*25px;*/15px;
+    padding: 0 10px;
+    gap: 5px;
+	flex-wrap: wrap;
+}
+	.mainvisual_icon li {
+		width: 30%;
+		text-align: center;
+	}
+	.mainvisual_icon li img {
+		width: 80%;
+	}
+#mainvisual::after {
+    bottom: -10px;
+    left: 0;
+    width: 100%;
+    height: 100px;
+    background-size: auto 100px, auto 100px; 
+    background-position: left -10px bottom, right -10px bottom;
+}
+/* 下層ページヘッドライン */
+.mainvisual_headline p.headline {
+    font-size: 23px;
+    letter-spacing: 0.1em;
+    line-height: 1.2;
+}
+.mainvisual_headline p {
+    margin-top: 6px;
+    font-size: 14px;
+}
+
+/*============================================================================
+
+	#contents
+
+============================================================================*/
+.box1 {
+    width: auto;
+    margin: 0 0 80px;
+}
+.box2 {
+    width: auto;
+    margin: 0 0 80px;
+}
+#contents {
+    width: auto;
+    padding: 20px 4% 70px;
+}
+#contents_left {
+    width: auto;
+    float: none;
+    margin-right: 0;
+}
+#contents_right {
+    width: auto;
+    padding: 0 6%;
+    float: none;
+}
+
+/*============================================================================
+
+	footer
+
+============================================================================*/
+footer {
+    padding-top: 40px;
+}
+.pagetop {
+    right: 10px;
+    bottom: 10px;
+}
+.pagetop, .pagetop img {
+    width: auto;
+    height: 80px;
+}
+.footer_info_wrap {
+    width: 100%;
+    padding: 0 4%;
+}
+.footer_info {
+    display: block;
+    padding-bottom: 50px;
+}
+.footer_info_overview_logo {
+    width: 70%;
+    margin: 0 auto 20px;
+}
+.footer_info_overview_add {
+    margin-bottom: 15px;
+    font-size: 15px;
+    line-height: 1.4;
+}
+.footer_info_overview_time {
+    text-align: center;
+}
+.footer_info_link {
+    width: 100%;
+    padding-top: 35px;
+}
+.footer_info_link_sns {
+    justify-content: center;
+    margin-bottom: 30px;
+    padding: 19px 0 19px 10px;
+}
+.footer_info_link_sns p {
+    margin-right: 25px;
+}
+.footer_info_link_sns ul {
+    gap: 10px;
+}
+.footer_info_link_bna li {
+    text-align: center;
+}
+.footer_info_overview {
+    width: 100%;
+}
+.footer_info_nav {
+    padding: 30px 0;
+}
+.footer_info_nav p {
+    margin-bottom: 30px;
+}
+.footer_info_nav ul {
+    display: block;
+}
+.footer_info_inquery {
+	font-size: 1.2em!important;
+	line-height: 1.3 !important;
+	display: block;
+}
+.footer_info_inquery img {
+	width: 25px;
+}
+.footer_info_overview_tel span {
+    width: 100%;
+    max-width: 302px;
+    margin: 14px auto 0;
+    font-size: 16px;
+}
+  .footer_video_wrap{
+    max-width: 100%;
+  }
+.footer_map {
+    height: 360px;
+}
+.footer_info_nav ul li {
+    margin-bottom: 15px;
+}
+.footer_info_nav ul li a {
+    display: block;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: 1.2;
+    text-align: center;
+}
+.footer_navi .inner {
+    display: block;
+    width: 100%;
+    padding: 40px 4% 40px;
+}
+.footer_navi ul.page_list:nth-of-type(2) {
+    margin-bottom: 20px;
+}
+.footer_navi ul.page_list:nth-of-type(1),
+.footer_navi ul.page_list:nth-of-type(2) {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.footer_navi ul.page_list:nth-of-type(1) li,
+.footer_navi ul.page_list:nth-of-type(2) li {
+    width: 47%;
+    margin-bottom: 20px;
+}
+.footer_navi ul.page_list li a {
+    height: 100%;
+    padding: 0 20px 14px 10px;
+}
+.footer_navi ul.page_list li:not(:last-of-type) a {
+    margin-bottom: 0;
+}
+.footer_navi .under_page_box:not(:last-of-type) {
+    margin-bottom: 40px;
+}
+
+.under_page_box .indent{
+  letter-spacing: 0.1em;
+}
+.copy {
+    padding: 20px 5%;
+    line-height: 1.3;
+}
+
+/*============================================================================
+
+	$top
+
+============================================================================*/
+.top_news {
+    padding: 30px 0 50px;
+}
+.top_news h2 {
+    margin-bottom: 30px;
+    font-size: 26px;
+    letter-spacing: 0.1em;
+}
+.top_news h2::before {
+    margin-bottom: 16px;
+    font-size: 14px;
+}
+.top_news_frame {
+    width: 92%;
+    height: auto;
+    padding: 20px 5% 60px;
+    border-radius: 25px;
+}
+.top_news_frame ol li a {
+    padding: 10px 30px 14px 10px;
+    line-height: 1.5;
+}
+.top_news_frame ol li a::after {
+    right: 12px;
+    top: calc(50% - 7px);
+}
+.top_news_frame ol span {
+    margin-right: 14px;
+}
+.top_news_frame ol em {
+    line-height: 24px;
+    letter-spacing: 0.05em;
+    font-size: 14px;
+}
+.top_news_frame ol strong {
+    display: block;
+    margin-top: 5px;
+    font-size: 15px;
+    letter-spacing: 0.05em;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+.top_doctor {
+    padding: 60px 0 90px;
+    background-position: left top -30px, left bottom -40px, left top;
+    background-size: auto 70px, auto 70px, auto auto;
+}
+.top_doctor h2 {
+    width: 92%;
+    margin: 0 auto;
+    font-size: 18px;
+    letter-spacing: 0.05em;
+    line-height: 1.8;
+}
+.top_doctor h2 span {
+    font-size: 23px;
+    letter-spacing: 0;
+}
+.doctor_flex {
+    display: block;
+    width: 92%;
+}
+.top_doctor_tit_en {
+    padding: 0 4%;
+    margin-top: 15px;
+    margin-bottom: 30px;
+    font-size: 14px;
+    letter-spacing: 0.07em;
+    line-height: 1.3;
+}
+.top_doctor_text {
+    writing-mode: horizontal-tb;
+    padding-top: 0;
+}
+.top_doctor_text p:not(:last-of-type) {
+    margin-left: 0;
+}
+.top_doctor_text h3 {
+    margin: 0 0 14px 0;
+    font-size: 19px;
+    line-height: 1.4;
+    text-align: center;
+}
+.top_doctor_text P {
+    font-size: 16px;
+    letter-spacing: 0.05em;
+    line-height: 2.3;
+}
+.top_doctor_text P.doctor_name {
+    margin-top: 15px;
+    font-size: 15px;
+}
+.top_doctor_img {
+    margin: 35px auto 0;
+    text-align: center;
+}
+.top_feature {
+    padding: 400px 0 180px;
+    background-image: url(../images/top_feature_grass.png), url(../images/top_feature_house.png), url(../images/top_feature_house.png), url(../images/top_feature_top_wave.png);    
+    background-repeat: repeat-x, no-repeat, no-repeat, repeat-x;
+    background-position: center bottom, center top, center bottom 30px, center top;
+}
+.top_feature h2 {
+    margin-bottom: 20px;
+    padding: 0 4%;
+    font-size: 26px;
+    letter-spacing: 0.1em;
+    line-height: 1.3;
+}
+.top_feature h2::before {
+    margin-bottom: 16px;
+    font-size: 14px;
+}
+.top_feature h3 {
+    margin: 0 4% 60px;
+    padding: 15px 15px;
+    font-size: 17px;
+    letter-spacing: 0.05em;
+    height: auto;
+    line-height: 1.6;
+    border-radius: 20px;
+}
+.top_feature_list {
+    flex-wrap: wrap;
+    gap: 50px 4%;
+    padding: 0 4%;
+}
+.top_feature_list li {
+    width: 48%;
+    max-width: 252px;
+}
+.top_feature_list li p {
+    font-size: 16px;
+    line-height: 1.8;
+    letter-spacing: 0;
+}
+.top_medical {
+    padding: 47px 0 30px;
+}
+.top_medical h2 {
+    margin-bottom: 40px;
+    padding: 0 4%;
+    font-size: 26px;
+    letter-spacing: 0.1em;
+    line-height: 1.3;
+}
+.top_medical h2::before {
+    margin-bottom: 16px;
+    padding-top: 84px;
+    font-size: 14px;
+}
+.top_medical_list {
+    display: block;
+    width: 100%;
+    margin: 0 auto 46px;
+}
+.top_medical_list li {
+    margin: 0 auto 35px;
+}
+.top_medical_list_text p {
+    min-height: initial;
+    margin-bottom: 15px;
+    font-size: 16px;
+}
+.top_medical_sub_list {
+    display: block;
+    width: 92%;
+    margin: 50px auto 0;
+}
+.top_medical_sub_list li {
+    width: 100%;
+    max-width: 300px;
+    margin: 0 auto 35px;
+}
+.top_medical_sub_list li a h3 {
+    margin: 0 auto 17px;
+    padding: 0 23px 2px 25px;
+    font-size: 20px;
+    letter-spacing: 0.1em;
+}
+.top_medical_sub_list li a .top_medical_sub_list_btn {
+    width: 100%;
+}
+.top_medical_sub_list li p {
+    min-height: initial;
+    font-size: 16px;
+    text-align: left;
+}
+.top_medical_sub_list li figure {
+    height: auto;
+    margin-bottom: 15px;
+}
+    #clinic04 .clinic_box:nth-of-type(3) figure img{
+        width: 210px;
+    }
+/*============================================================================
+
+	$breadcrumbs ぱんくず
+
+============================================================================*/
+.breadcrumbs {
+    width: 100%;
+    margin: 0 0 30px;
+}
+.breadcrumbs li {
+    display: inline-block;
+}
+
+/*============================================================================
+
+	$共通
+
+============================================================================*/
+.box {
+    width: auto;
+    padding: 0 6% 8%;
+}
+.text {
+    float: none;
+    width: auto;
+    padding: 0;
+    border: none;
+}
+
+/*============================================================================
+
+	$見出し
+
+============================================================================*/
+h1 {
+    position: relative;
+    top: auto;
+    font-size: 12px;
+    width: auto;
+    padding: 25px 15px 0;
+    text-align: center;
+}
+.tit01 {
+    margin-bottom: 35px;
+    font-size: 25px;
+    letter-spacing: 0.1em;
+    line-height: 1.2;
+}
+.tit01::before {
+    margin-bottom: 14px;
+    font-size: 14px;
+}
+.tit02 {
+    margin-bottom: 20px;
+    margin-left: 10px;
+    padding: 9px 28px 10px 50px;
+    font-size: 19px;
+    line-height: 1.3;
+}
+.tit02::before {
+    left: -10px;
+    bottom: 2px;
+    width: 49px;
+    height: 40px;
+    background-size: cover;
+}
+.nowrap {
+    white-space: normal;
+}
+/* テーブル */
+.tb01 {
+    white-space: inherit;
+}
+.tb01 th {
+    width: 30%;
+    font-size: 14px;
+}
+.tb01 td {
+    font-size: 14px;
+    text-align: center;
+}
+.tb03, .tb03 th {
+    white-space: inherit;
+}
+.tb03.w075par {
+    width: 100%;
+}
+/* 縦積みにした時 */
+.tb03.ver th, .tb03.ver td {
+    display: block;
+    width: 100%;
+}
+.tb03.ver td {
+    border-top: none;
+}
+.tb03.ver th:not(:first-child) {
+    border-top: none;
+}
+/* 横スクロール */
+.scroll_tb {
+    overflow-x: scroll;
+}
+.scroll_tb table {
+    width: 816px;
+}
+.scroll_tb table th {
+    position: sticky;
+    left: 0;
+}
+.scroll_tb table th::before {
+    content: "";
+    position: absolute;
+    top: -1px;
+    left: -1px;
+    width: calc(100% + 2px);
+    height: calc(100% + 2px);
+    border: 1px solid #00408f;
+}
+.tb04, .tb04 th {
+    white-space: normal;
+}
+.tb04 th {
+    font-size: 13px;
+}
+.tb04 td, .tb04 th {
+    padding: 2%;
+}
+/* ボタン */
+.btn01 a {
+    display: block;
+}
+/* リスト */
+.list06 {
+    padding: 25px 6% 15px;
+}
+.list06 li {
+    margin-bottom: 12px;
+    line-height: 1.5;
+}
+.list06 li:before {
+    top: 8px;
+}
+.list11 {
+    padding: 20px 5%;
+}
+/* アンカーリンク */
+.ank02 {
+    width: 100%;
+}
+.ank02 li {
+    width: 100%;
+}
+.ank03 {
+    width: 100%;
+}
+.ank03 li {
+    width: 100%;
+}
+.ank04 {
+    width: 100%;
+}
+.ank04 li {
+    width: 100%;
+}
+/* 画像右寄せ */
+.img_fr {
+    float: none;
+    margin-left: 0;
+    text-align: center;
+    max-width: 100%;
+}
+.img_fr img {
+    margin-bottom: 15px;
+}
+
+/*============================================================================
+
+	$clinic
+
+============================================================================*/
+.clinic01_tit {
+    font-size: 18px;
+    letter-spacing: 0.05em;
+    line-height: 1.8;
+}
+.clinic01_tit span {
+    font-size: 23px;
+    letter-spacing: 0;
+}
+.clinic01_tit_en {
+    padding: 0 4%;
+    margin-top: 15px;
+    margin-bottom: 30px;
+    font-size: 14px;
+    letter-spacing: 0.07em;
+    line-height: 1.3;
+}
+.clinic_doctor_flex {
+    display: block;
+    width: 100%;
+}
+.clinic_doctor_flex .top_doctor_text h4 {
+    margin: 0 0 14px 0;
+    font-size: 19px;
+    line-height: 1.4;
+    text-align: center;
+}
+.clinic_doctor_flex .top_doctor_text P {
+    line-height: 2.3;
+}
+.clinic_doctor_flex .top_doctor_text P:not(:last-of-type) {
+    margin-left: 0;
+}
+#clinic02 .top_feature_list li figure img {
+    height: auto;
+}
+#clinic02 .top_feature_list {
+    padding: 0 0;
+}
+.history_img {
+    margin-bottom: 20px !important;
+}
+.history_img img {
+    margin-bottom: 0px;
+}
+.clinic_box {
+    display: block;
+    width: 100%;
+}
+.clinic_sec1 {
+    width: 100%;
+    font-size: 16px;
+}
+#clinic04 .clinic_sec1 {
+    float: none;
+}
+#clinic04 .clinic_box:not(:last-of-type) {
+    margin-bottom: 50px;
+}
+#clinic04 .clinic_box:nth-of-type(2) .clinic_sec1,
+#clinic04 .clinic_box:nth-of-type(4) .clinic_sec1 {
+    width: 100%;
+}
+.clinic_sec1 dt {
+    width: 30%;
+    letter-spacing: 0;
+}
+.clinic_sec1 dd {
+    width: 70%;
+    padding-left: 6px;
+}
+.clinic_box figure {
+    text-align: center;
+    margin-top: 20px;
+}
+.clinic_box figure img {
+    width: 120px!important;
+    height: auto;
+}
+#clinic04 .clinic_box:nth-of-type(2) figure img {
+	width: 80px!important;
+}
+.staff_list li {
+    display: block;
+    padding: 10px 5px;
+}
+.staff_list li:last-of-type {
+    margin-bottom: 0;
+}
+.staff_list li figure {
+    text-align: center;
+}
+.staff_list li figure img {
+    width: 100%;
+}
+.staff_list_text {
+    margin-right: 0;
+    padding-top: 25px;
+}
+.staff_list_text h3 {
+    margin: 0 auto 14px;
+    padding: 0 24px 2px 24px;
+    font-size: 22px;
+    letter-spacing: 0.1em;
+}
+.staff_list_text p {
+    letter-spacing: 0.05em;
+    line-height: 2;
+}
+
+/*============================================================================
+
+	$feature
+
+============================================================================*/
+.feature_list li {
+    display: block;
+}
+.feature_list {
+    width: 100%;
+    margin-top: 60px;
+}
+.feature_list li:not(:last-of-type) {
+    margin-bottom: 60px;
+}
+.feature_list li figure {
+    text-align: center;
+}
+.feature_list_text {
+    width: 100%;
+    margin-top: -30px;
+    margin-left: 0;
+    padding: 20px 5px 20px;
+}
+.feature_list_text h3 {
+    margin-bottom: 10px;
+    font-size: 21px;
+    letter-spacing: 0.1em;
+}
+  
+  /*============================================================================
+
+	$about
+
+============================================================================*/
+
+  .text .text_style02{
+    width: 100%;
+  line-height: 1.5;
+  font-size: 17px;
+  }
+  
+.text .text_style03{
+    width: 100%;
+  line-height: 1.5;
+  font-size: 16px;
+  }
+.text .text_style03 span{
+      font-size: 14px;
+  }
+  
+/*============================================================================
+
+	$price
+
+============================================================================*/
+.tb03.price th, .tb03.price td {
+    display: block;
+    width: 100%;
+    border: none;
+}
+.tb03.price th {
+    text-align: center;
+}
+.tb03.price td {
+    padding: 6px 10px 0;
+}
+.tb03.price tr td:last-of-type {
+    padding-bottom: 6px;
+}
+.tb03.price tr:not(:last-of-type) td:last-of-type {
+    border-bottom: 1px solid #ab8f7b;
+}
+
+/*============================================================================
+
+	$facilities
+
+============================================================================*/
+.facilities_equip dl {
+    width: 100%;
+    margin-left: 0;
+    padding: 6% 10% 10%;
+}
+.facilities_equip_img {
+    width: 100%;
+    margin-bottom: 8%;
+    margin-left: 0;
+}
+.facilities_equip2 dl, .facilities_equip2 dl:nth-child(3n) {
+    width: 90%;
+    margin: 0 5% 30px;
+}
+.facilities_equip2 dl:nth-child(even) {
+    margin-right: 5%;
+}
+.facilities_equip3 dl {
+    width: 90%;
+    margin: 0 5% 30px;
+}
+.facilities_equip3 dl:nth-child(even) {
+    margin-right: 5%;
+}
+.facilities_equip3 dl, .facilities_equip3 dl:nth-child(3n) {
+    width: 90%;
+    margin: 0 5% 30px;
+}
+
+/*============================================================================
+
+	$access
+
+============================================================================*/
+.access_wrap [class^="access"]{
+    margin-bottom: 40px;
+    width: 100%;
+}
+.access_wrap [class^="access"]:last-child{
+    margin-bottom: 0;
+}
+.access_wrap [class^="access"] iframe{
+    height: 300px;
+}
+.access_list{
+	padding: 30px 15px 0;
+}
+.access_list dl {
+	width: 100%;
+	margin-bottom: 30px;
+}
+
+/*============================================================================
+
+	$medical
+
+============================================================================*/
+.qa1 dl {
+    margin-bottom: 20px;
+}
+.qa1 dl dt {
+    margin-bottom: 10px;
+    padding-left: 36px;
+    padding-right: 30px;
+    line-height: 1.5;
+}
+.qa1 dl dd {
+    margin-top: 15px;
+    padding-left: 34px;
+    padding-bottom: 15px;
+    line-height: 1.7;
+}
+.qa1 dl dd:before {
+    margin-left: 2px;
+}
+.service_age li span {
+    display: block;
+    width: 100%;
+    margin-right: 0;
+    margin-bottom: 10px;
+}
+.service_age li {
+    display: block;
+    padding: 10px;
+    font-size: 15px;
+    line-height: 1.5;
+}
+.data_img {
+    float: none;
+    margin-left: 0;
+    margin-bottom: 15px;
+    text-align: center;
+}
+.tb03.hospital {
+    border-bottom: none;
+}
+.tb03.hospital td {
+    display: block;
+    width: 100%;
+    padding: 12px 3%;
+    font-size: 15px;
+    border-width: 0 0 1px 0;
+}
+#data03 .tb03 th, #data03 .tb03 td {
+    padding: 12px 3%;
+    font-size: 15px;
+    letter-spacing: 0;
+}
+#data03 .tb03 th span {
+    display: block;
+}
+#data06 .tb03 th, #data06 .tb03 td {
+    display: block;
+    width: 100%;
+    border: none;
+    padding: 12px 3%;
+    font-size: 15px;
+    line-height: 1.4;
+    text-align: center;
+}
+#data06 .tb03 tr:not(:last-of-type) td:last-of-type {
+    border-bottom: 1px solid #ab8f7b;
+}
+
+/*============================================================================
+
+	$recruit
+
+============================================================================*/
+.tb03.recruit_table td, .tb03.recruit_table th {
+    display: block;
+    width: 100%;
+    padding: 12px 3%;
+    letter-spacing: 0;
+    border: none;
+}
+.tb03.recruit_table tr:not(:last-of-type) td:last-of-type {
+    border-bottom: 1px solid #ab8f7b;
+}
+
+
+
+/*============================================================================
+
+	$contact
+
+============================================================================*/
+#cf_tbl .tb03 th, #cf_tbl .tb03 td {
+    display: block;
+    width: 100%;
+    border: none;
+    padding: 12px 3%;
+}
+#cf_tbl .tb03 tr:not(:last-of-type) td:last-of-type {
+    border-bottom: 1px solid #ab8f7b;
+}
+#cf_tbl .tb03 input[type="tel"] {
+    width: 100%;
+}
+#cf_tbl .tb03 input[type="number"] {
+    width: 100%;
+}
+#cf_tbl .form_privacy_policy_tit {
+	font-size: 19px;
+}
+
+/*==================================================================
+
+	.layout
+
+==================================================================*/
+.layout_tit {
+    font-size: 18px;
+}
+.layout_tit em {
+    font-size: 24px;
+}
+/* 1つ並びのレイアウト。画像は無し、左にタイトル、右に文章 */
+.layout01 .layout01_box {
+    display: block;
+}
+.layout01 .layout01_title {
+    width: 100%;
+    padding: 2% 2%;
+}
+.layout01 .layout01_text {
+    width: 100%;
+}
+.layout01 .layout01_text img {
+    width: 70%;
+    margin: 0 auto;
+    display: block;
+}
+/* 2つ並びのレイアウト。最初(dt)にタイトル、画像がその下(dd)、画像の下に文章 */
+.layout02 {
+    display: block;
+}
+.layout02 .layout02_box {
+    width: 100%;
+}
+.layout02 .layout02_box img {
+    width: 70%;
+    margin: 0 auto;
+    display: block;
+}
+/* 1つ並びのレイアウト。画像が左、右にタイトル、タイトル下に文章 */
+.layout03 {
+    margin: 0 0 15px;
+}
+.layout03 .layout03_box {
+    display: block;
+}
+.layout03 .layout03_title {
+    width: 100%;
+}
+.layout03 .layout03_title img {
+    width: 70%;
+    margin: 0 auto;
+    display: block;
+    padding: 0;
+}
+.layout03 .layout03_text {
+    width: 100%;
+    padding: 15px 3% 1%;
+}
+/* 1つ並びのレイアウト。画像が左、右にタイトル、タイトル下に文章、タイトルと文章のエリア(dd)は背景色が別の色 */
+.layout04 .layout04_box {
+    display: block;
+}
+.layout04 .layout04_title {
+    width: 100%;
+    padding: 2%;
+}
+.layout04 .layout04_title img {
+    width: 70%;
+    margin: 0 auto;
+    display: block;
+}
+.layout04 .layout04_text {
+    width: 100%;
+}
+/* 1つ並びで3列に区切られたレイアウト。画像が左、画像の下にタイトル、右に文章 */
+.layout05 .layout05_box {
+    display: block;
+}
+.layout05 .layout05_title {
+    width: 100%;
+    text-align: center;
+    display: block;
+}
+.layout05 .layout05_title img {
+    width: 70%;
+    margin: 0 auto;
+    display: block;
+}
+.layout05 .layout05_text1:nth-child(2) {
+    width: 100%;
+    margin-top: 10px;
+}
+.layout05 .layout05_text1:nth-child(3) {
+    width: 100%;
+    border-left: none;
+}
+/* 1つ並びで3列に区切られたレイアウト。左がタイトル、真ん中と右に文章 */
+.layout06 {
+    margin: 0 0 15px;
+}
+.layout06 .layout06_box {
+    display: block;
+}
+.layout06 .layout06_title {
+    width: 100%;
+    padding: 3%;
+    display: block;
+    text-align: center;
+}
+.layout06 .layout06_title img {
+    width: 70%;
+    margin: 0 auto;
+    display: block;
+}
+/* 数字 */
+.layout06 .layout06_text1:nth-child(2) {
+    width: 100%;
+    margin-top: 10px;
+}
+.layout06 .layout06_text1:nth-child(3) {
+    width: 100%;
+    border-left: none;
+}
+/* 3つ並びのレイアウト。 */
+.layout07 {
+    display: block;
+}
+.layout07 .layout07_box {
+    display: block;
+    width: 100%;
+}
+/* 3つ並びのレイアウト。矢印付き */
+.layout08 {
+    display: block;
+}
+.layout08 dl {
+    position: relative;
+    width: 100%;
+    margin-right: 0;
+    margin-bottom: 35px;
+}
+.layout08 dl::before {
+    position: absolute;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    top: 110%;
+    margin: auto;
+    height: 7px;
+    width: 7px;
+    transform: rotate(135deg);
+    background-color: transparent;
+    border-top: 2px solid #1F2774;
+    border-right: 2px solid #1F2774;
+    content: "";
+}
+.layout08 dl:nth-child(3n)::before {
+    display: none;
+}
+.layout08 dl dt {
+    margin-bottom: 7px;
+    padding-bottom: 7px;
+    border-bottom: 1px dashed #ddd;
+    font-size: 17px;
+    font-weight: bold;
+    text-align: center;
+}
+.layout08 dl dt em {
+    margin-right: 8px;
+    font-size: 24px;
+    font-family: 'Quicksand', sans-serif;
+}
+.layout08 dl dd {
+    line-height: 1.5;
+}
+/* layout10 */
+.layout10 .flow_box {
+    justify-content: space-between;
+    padding: 5% 3%;
+}
+.layout10 .flow_box::before {
+    display: none;
+}
+.layout10 .flow_box .number {
+    width: 42px;
+    height: 42px;
+    margin-right: 0;
+    font-size: 20px;
+}
+.layout10 .flow_box .layout10_box {
+    width: 82%;
+}
+.layout10 .flow_box .layout10_text .title {
+    font-size: 14px;
+    line-height: 1.4;
+}
+.layout10 .flow_box .layout10_text .title span {
+    display: block;
+    padding-bottom: 8px;
+    font-weight: bold;
+}
+.layout10 .flow_box .layout10_text .title span::after {
+    display: none;
+}
+.course_ablation::before {
+    display: none;
+}
+.layout10 .list11 li {
+    font-size: 15px;
+    line-height: 1.5;
+}
+/* layout11 */
+[class^="layout11_text"] dl dt, [class^="layout11_text"] dl dd {
+    margin-left: 0;
+    width: 100%;
+}
+[class^="layout11_text"] dl dt {
+    margin-bottom: 0;
+}
+[class^="layout11_text"] dl dd {
+    margin-bottom: 10px;
+}
+.layout11_image02 {
+    flex-wrap: wrap;
+}
+.layout11_image02 span {
+    width: 100%;
+}
+.layout11_image02 span:last-child {
+    margin-top: 40px;
+}
+.layout11_image02 span:last-child::before {
+    top: -32px;
+    bottom: auto;
+    left: 0;
+    right: 0;
+    justify-content: center;
+    content: "\f078";
+}
+
+/*============================================================================
+
+	$news
+
+============================================================================*/
+
+
+/*============================================================================
+
+	$mpcloud_schedule
+
+============================================================================*/
+#mpcloud_schedule {
+    width: 100%;
+    right: 0;
+    left: 0;
+    border-radius: 0;
+}
+.time_close {
+    right: 20px;
+    font-size: 17px;
+}
+.schedule_time {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+.schedule_time dt {
+    width: 35%;
+    margin-bottom: 5px;
+}
+.schedule_time dd {
+    width: 65%;
+    margin-bottom: 5px;
+}
+.schedule_time dd i {
+    margin: 0 3px 0 15px;
+    vertical-align: text-bottom;
+}
+
+/*common*/
+.pc{display:none!important}.sp{display:block!important}.pc_inline{display:none!important}.sp_inline{display:inline!important}.pc_table{display:table!important}.sp_table{display:table!important}img{max-width:100%;height:auto}.sp_mb00{margin-bottom:0!important}.sp_mr00{margin-right:0!important}.sp_ml00{margin-left:0!important}.sp_mt00{margin-top:0!important}.sp_pb00{padding-bottom:0!important}.sp_pr00{padding-right:0!important}.sp_pl00{padding-left:0!important}.sp_pt00{padding-top:0!important}.sp_center{text-align:center}
+}
+
+@media screen and (max-width:320px) {
+.top_doctor_text P.doctor_name span {
+    display: block;
+}
+.sp_inline_iP{
+	display:inline!important
+}
+}
