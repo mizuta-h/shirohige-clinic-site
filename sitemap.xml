@@ -9,7 +9,7 @@
 
 <url>
   <loc>https://shirohige.clinic/</loc>
-  <lastmod>2025-12-04T01:46:27+00:00</lastmod>
+  <lastmod>2025-12-18T04:21:03+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
@@ -18,23 +18,28 @@
   <priority>0.80</priority>
 </url>
 <url>
+  <loc>https://shirohige.clinic/blog/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
   <loc>https://shirohige.clinic/menu/home-visit/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://shirohige.clinic/menu/visit-process/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://shirohige.clinic/menu/nutrition-visit/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://shirohige.clinic/menu/faq/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
@@ -44,37 +49,37 @@
 </url>
 <url>
   <loc>https://shirohige.clinic/menu/nursing-station/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://shirohige.clinic/menu/care-support/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://shirohige.clinic/menu/care-support2/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://shirohige.clinic/menu/home-care/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://shirohige.clinic/menu/nutrition-care/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://shirohige.clinic/menu/shirohige-base/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://shirohige.clinic/menu/community-comprehensive/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
@@ -83,18 +88,23 @@
   <priority>0.80</priority>
 </url>
 <url>
+  <loc>https://shirohige.clinic/about/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
   <loc>https://shirohige.clinic/recruit/recruitment/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://shirohige.clinic/recruit/job-requirements/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://shirohige.clinic/recruit/inquiry/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
@@ -104,7 +114,7 @@
 </url>
 <url>
   <loc>https://shirohige.clinic/menu/inquiry/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
@@ -113,33 +123,33 @@
   <priority>0.80</priority>
 </url>
 <url>
+  <loc>https://shirohige.clinic/blog/taiwa-ikiru/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
   <loc>https://shirohige.clinic/blog/josei-seven/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://shirohige.clinic/blog/homecare-event-20251203/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://shirohige.clinic/blog/shirohige-christmas-2025/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://shirohige.clinic/blog/shirohige-marche/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/media-kokoro-sakaba/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://shirohige.clinic/menu/privacy/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
@@ -149,27 +159,52 @@
 </url>
 <url>
   <loc>https://shirohige.clinic/menu/community-space/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://shirohige.clinic/recruit/contact-recruitment/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://shirohige.clinic/category/news/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://shirohige.clinic/blog/media-kokoro-sakaba/?post_type=post</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
+  <loc>https://shirohige.clinic/blog/page/2/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/page/3/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/page/4/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/page/5/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/page/25/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/shirohige-marche/?post_type=post</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://shirohige.clinic/menu/appcontact/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
@@ -203,728 +238,853 @@
   <priority>0.64</priority>
 </url>
 <url>
+  <loc>https://shirohige.clinic/blog/taiwa-ikiru/?post_type=post</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
   <loc>https://shirohige.clinic/blog/josei-seven/?post_type=post</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://shirohige.clinic/blog/homecare-event-20251203/?post_type=post</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://shirohige.clinic/blog/shirohige-christmas-2025/?post_type=post</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/shirohige-marche/?post_type=post</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://shirohige.clinic/category/news/page/2/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://shirohige.clinic/category/news/page/3/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://shirohige.clinic/category/news/page/4/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://shirohige.clinic/category/news/page/5/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://shirohige.clinic/category/news/page/25/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/media-kokoro-sakaba/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://shirohige.clinic/blog/supporters-wanted/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://shirohige.clinic/blog/ec-open/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://shirohige.clinic/blog/media-report-nov2025/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://shirohige.clinic/blog/karuta-event/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/page/6/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://shirohige.clinic/blog/symp-report-2025/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://shirohige.clinic/blog/media-info/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://shirohige.clinic/blog/shirohige-care/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://shirohige.clinic/blog/2025_symposium/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://shirohige.clinic/blog/dayori-2510/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/page/7/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://shirohige.clinic/blog/20251002-2/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://shirohige.clinic/blog/kenko-keiei-sengen/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://shirohige.clinic/blog/shirohige-vaccine-2025/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://shirohige.clinic/blog/20250923-2/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://shirohige.clinic/blog/20250916-2/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/page/8/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://shirohige.clinic/blog/20250915-2/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://shirohige.clinic/blog/20250909-1/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://shirohige.clinic/blog/20250904-2/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://shirohige.clinic/blog/live-event-yamanaka-2025/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://shirohige.clinic/blog/20250711-2/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://shirohige.clinic/blog/20250602-2/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/higezo-blog-start/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/opening-lecture-nov2/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/higezo-diary/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/20250411-3/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/20250404-2/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/higezo-heart-bar/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/keizai-kenko-keiei-2025/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/shirohige-sponsor-tokyo23fc/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/shirohige-zoukan/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/shirohige-new-year-message/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/shirohige-christmas-event2024/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/higezo-cafe-open/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/nurse-care-construction-tender/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/home-medical-symposium-happiness/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/shirohige-vaccine-2024/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/doctor-recruitment-2024/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/shirohige-summer-festival/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/nurse-care-recruitment/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/nursing-move-announcement/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/shirohige-health-exercise2/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/shirohige-health-exercise-start/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/shirohige-family-kickoff/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/home-medical-process-video/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/katakuri-family-support/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/mainichi-interview-yamanaka/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/hiranomiu-olympic-message/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/noto-earthquake-aid/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/zaitaku-medical-test-award14/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/nissoken-award-2024/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/2024-new-year/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/self-pay-price-revision/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/shirohige-year-end-message/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/shirohige-omoide-nursing/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/manifest-award-2024/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/home-medical-symposium-carmen/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/bungeishunju-column-yamanaka/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/shirohige-vaccine-2023/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/hearing-disability-afterschool-event/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/metaverse-shirohige-moon-event/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/suigey-tanabata-festival/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/metaverse-shirohige-clinic/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/nhk-shirohige-clinic/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/april-2023-changes/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/edogawa-yorimichiya-opening/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/shirohige-base-edogawa/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/shirohige-smile-project/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/home-care-test-awards13/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/happy-new-year/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/christmas-party/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/shirohige-channel-24-office-introduction/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/home-care-symposium-recording/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/shirohige-base-december1/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/shirohige-vaccination-info/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/shirohige-channel-23-lifting-assistance/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/new-office-business-start-nov1/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/home-care-symposium-oct24/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/shirohige-new-office-opening-oct22/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/shirohige-new-office-press-release/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/shirohige-channel-22-dressing-assistance/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/shirohige-new-office-symposium/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/shirohige-channel-21-diaper-changing/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/shirohige-channel-20-care-products/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/shirohige-channel-19-care-ranger-interview/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/shirohige-channel-18-health-check3/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/shirohige-channel-17-health-check2/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/shirohige-channel-16-health-check1/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/shirohige-channel-15-diet-tips/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/shirohige-channel-14-diet-results/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/shirohige-channel-12-13-diet-report/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/home-care-test-awards/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/shirohige-wrapped-bus/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/shirohige-channel-11-new-year-greeting/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/social-contribution-report/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/shirohige-channel-10-part2/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/shirohige-channel-10-part1/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/shirohige-channel-next-episode/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/shirohige-channel-9/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/shirohige-channel-social-contribution/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/shirohige-channel-home-care-doctor/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/shirohige-channel-8/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/shirohige-channel-7/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/shirohige-channel-home-nursing/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/shirohige-channel-public-relations/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/shirohige-channel-6/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/shirohige-channel-5/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/shirohige-channel-home-care-support/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/shirohige-channel-4/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/shirohige-channel-medical-billing/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/shirohige-channel-3/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/shirohige-channel-2/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/shirohige-channel-1/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/shirohige-channel-driver/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/shirohige-channel-reception/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/shirohige-channel-medical-coordination/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/shirohige-channel-accompanying-nurse/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://shirohige.clinic/blog/shirohige-channel-voices/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
+  <loc>https://shirohige.clinic/blog/page/9/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://shirohige.clinic/blog/home-care-job-fair/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/higezo-blog-start/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/opening-lecture-nov2/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/higezo-diary/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/page/24/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/page/21/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/page/22/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/page/23/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/20250602-2/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/20250411-3/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/20250404-2/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/higezo-heart-bar/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/keizai-kenko-keiei-2025/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/shirohige-sponsor-tokyo23fc/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/shirohige-zoukan/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/shirohige-new-year-message/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/shirohige-christmas-event2024/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/higezo-cafe-open/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/nurse-care-construction-tender/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/home-medical-symposium-happiness/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/shirohige-vaccine-2024/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/doctor-recruitment-2024/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/shirohige-summer-festival/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/nurse-care-recruitment/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/nursing-move-announcement/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/shirohige-health-exercise2/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/shirohige-health-exercise-start/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/shirohige-family-kickoff/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/home-medical-process-video/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/katakuri-family-support/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/mainichi-interview-yamanaka/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/hiranomiu-olympic-message/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/noto-earthquake-aid/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/zaitaku-medical-test-award14/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/nissoken-award-2024/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/2024-new-year/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/self-pay-price-revision/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/shirohige-year-end-message/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/shirohige-omoide-nursing/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/manifest-award-2024/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/home-medical-symposium-carmen/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/bungeishunju-column-yamanaka/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/shirohige-vaccine-2023/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/hearing-disability-afterschool-event/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/metaverse-shirohige-moon-event/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/suigey-tanabata-festival/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/metaverse-shirohige-clinic/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/nhk-shirohige-clinic/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/april-2023-changes/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/edogawa-yorimichiya-opening/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/shirohige-base-edogawa/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/shirohige-smile-project/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/home-care-test-awards13/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/happy-new-year/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/christmas-party/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/shirohige-channel-24-office-introduction/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/home-care-symposium-recording/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/shirohige-base-december1/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/shirohige-vaccination-info/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/shirohige-channel-23-lifting-assistance/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/new-office-business-start-nov1/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/home-care-symposium-oct24/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/shirohige-new-office-opening-oct22/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/shirohige-new-office-press-release/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/shirohige-channel-22-dressing-assistance/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/shirohige-new-office-symposium/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/shirohige-channel-21-diaper-changing/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/shirohige-channel-20-care-products/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/shirohige-channel-19-care-ranger-interview/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/shirohige-channel-18-health-check3/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/shirohige-channel-17-health-check2/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/shirohige-channel-16-health-check1/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/shirohige-channel-15-diet-tips/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/shirohige-channel-14-diet-results/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/shirohige-channel-12-13-diet-report/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/home-care-test-awards/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/shirohige-wrapped-bus/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/shirohige-channel-11-new-year-greeting/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/social-contribution-report/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/shirohige-channel-10-part2/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/shirohige-channel-10-part1/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/shirohige-channel-next-episode/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/shirohige-channel-9/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/shirohige-channel-social-contribution/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/shirohige-channel-home-care-doctor/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/shirohige-channel-8/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/shirohige-channel-7/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/shirohige-channel-home-nursing/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/shirohige-channel-public-relations/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/shirohige-channel-6/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/shirohige-channel-5/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/shirohige-channel-home-care-support/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/shirohige-channel-4/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/shirohige-channel-medical-billing/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/shirohige-channel-3/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/shirohige-channel-2/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/shirohige-channel-1/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/shirohige-channel-driver/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/shirohige-channel-reception/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/shirohige-channel-medical-coordination/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/shirohige-channel-accompanying-nurse/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/shirohige-channel-voices/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://shirohige.clinic/category/news/page/6/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
   <loc>https://shirohige.clinic/category/news/page/7/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
   <loc>https://shirohige.clinic/category/news/page/8/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
   <loc>https://shirohige.clinic/category/news/page/9/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
   <loc>https://shirohige.clinic/category/news/page/24/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
   <loc>https://shirohige.clinic/category/news/page/21/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
   <loc>https://shirohige.clinic/category/news/page/22/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
   <loc>https://shirohige.clinic/category/news/page/23/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/page/10/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/wp/wp-content/uploads/2025/10/shirohige-202510_001-1.pdf</loc>
+  <lastmod>2025-10-14T01:28:18+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/wp/wp-content/uploads/2025/10/shirohige-202510_002-1.pdf</loc>
+  <lastmod>2025-10-14T01:28:27+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/page/11/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/wp/wp-content/uploads/2025/09/influenza-vaccine-pre-examination-form-20250924.pdf</loc>
+  <lastmod>2025-09-24T04:50:47+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/wp/wp-content/uploads/2025/09/coronavirus-vaccine-pre-examination-form-20250924.pdf</loc>
+  <lastmod>2025-09-24T04:50:53+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/page/12/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/wp/wp-content/uploads/2025/07/8017637b31eae5440ed6ecef4e59b11d.pdf</loc>
+  <lastmod>2025-07-16T02:34:54+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/page/13/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/page/20/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/page/17/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/page/18/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/page/19/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
   <loc>https://shirohige.clinic/category/news/page/10/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://shirohige.clinic/category/news/page/11/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://shirohige.clinic/category/news/page/12/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://shirohige.clinic/category/news/page/13/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://shirohige.clinic/category/news/page/20/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://shirohige.clinic/category/news/page/17/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://shirohige.clinic/category/news/page/18/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://shirohige.clinic/category/news/page/19/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/page/14/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/page/15/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://shirohige.clinic/blog/page/16/</loc>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://shirohige.clinic/category/news/page/14/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
   <loc>https://shirohige.clinic/category/news/page/15/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
   <loc>https://shirohige.clinic/category/news/page/16/</loc>
-  <lastmod>2025-12-04T03:51:45+00:00</lastmod>
+  <lastmod>2025-12-18T07:50:24+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 
