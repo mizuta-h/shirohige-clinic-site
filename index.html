@@ -236,9 +236,26 @@
       </ol>
     </div>
         <div class="top_news_btn"><a href="https://shirohige.clinic/blog/">View more</a></div>
-        <!--<div style="text-align:center;margin-top: 3%;">
-          <video src="mov/hn.mp4" autoplay="" controls="" muted="" playsinline="" preload="" loop="" width="80%"></video>
-        </div>-->
+        <div id="video-container" style="text-align:center;">
+        </div>
+    <script>
+      // 公開したい日時を設定 (年, 月-1, 日, 時, 分)
+      // ※月は0から始まるため、12月なら「11」と指定します
+      const releaseDate = new Date(2026, 0, 1, 0, 0); // 例: 2025年12月25日 10:00
+
+      // 現在の日時を取得
+      const now = new Date();
+
+      // 指定日時を過ぎているか判定
+      if (now.getTime() >= releaseDate.getTime()) {
+          const container = document.getElementById('video-container');
+
+          // videoタグの中身を書き込む
+          container.innerHTML = `
+            <video src="mov/2026year.mp4" autoplay="" controls="" muted="" playsinline="" preload="" loop="" width="80%"></video>
+          `;
+      }
+    </script>
 </section><!-- .top_news -->
 
 
